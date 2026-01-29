@@ -100,4 +100,4 @@ Security notes:
 - neither server isolates processes or limits resource usage
 
 License:
-MIT (or add your own)
+MIT
